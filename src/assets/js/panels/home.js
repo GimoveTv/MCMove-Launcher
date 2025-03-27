@@ -37,7 +37,7 @@ class Home {
                         </div>
                     </div>
                     <div class="news-content">
-                        <div class="bbWrapper">
+                        <div class="bbWrapper"
                             <p>Vous pourrez suivre ici toutes les news relative au serveur.</p>
                         </div>
                     </div>`
@@ -49,7 +49,7 @@ class Home {
                     blockNews.classList.add('news-block');
                     blockNews.innerHTML = `
                         <div class="news-header">
-                            <img class="server-status-icon" src="assets/images/icon.png">
+                            <img class="server-status-icon" src="assets/images/info.png">
                             <div class="header-text">
                                 <div class="title">${News.title}</div>
                             </div>
@@ -336,7 +336,7 @@ class Home {
         let year = date.getFullYear()
         let month = date.getMonth() + 1
         let day = date.getDate()
-        let allMonth = ['janvier', 'février', 'mars', 'avril', 'mai', 'juin', 'juillet', 'août', 'septembre', 'octobre', 'novembre', 'décembre']
+        let allMonth = ['Janvier', 'Février', 'Mars', 'Avril', 'Mai', 'Juin', 'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Décembre']
         return { year: year, month: allMonth[month - 1], day: day }
     }
 }
