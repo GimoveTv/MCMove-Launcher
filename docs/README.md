@@ -6,12 +6,6 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/luuxis/Selvania-Launcher/total?style=for-the-badge)
 [<p align="center">]()
 
-<p align="center">
-    <a href="http://discord.luuxis.fr">
-        <img src="https://invidget.switchblade.xyz/e9q7Yr2cuQ">
-    </a>
-</p>
-
 Vous pouvez télécharger le launcher à partir des [Releases GitHub](../../../releases).
 
 Plateformes supportées :
