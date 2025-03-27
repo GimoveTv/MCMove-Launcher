@@ -1,10 +1,6 @@
 <p align="center"><img src="../src/assets/images/icon.png" alt="icon-launcher"></p>
 
-<h1 align="center">CraftLaunch</h1>
-
-[<p align="center">]()
-![GitHub all releases](https://img.shields.io/github/downloads/luuxis/Selvania-Launcher/total?style=for-the-badge)
-[<p align="center">]()
+<h1 align="center">MCMove Launcher</h1>
 
 Vous pouvez télécharger le launcher à partir des [Releases GitHub](../../../releases).
 
