@@ -1,12 +1,12 @@
 {
     "name": "MCMove-Launcher",
     "preductname": "MCMove Launcher",
-    "version": "0.0.5",
+    "version": "0.0.7",
     "description": "Launcher Mincraft pour le serveur MCMove",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, GimoveTv, Inc.",
-        "email": "mcmove@alwaysdata.net",
+        "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
     "url": "https://mcmovelauncher.alwaysdata.net",
@@ -23,7 +23,6 @@
     },
     "dependencies": {
         "electron-updater": "^6.1.8",
-        "github": "^14.0.0",
         "minecraft-java-core": "^4.0.0",
         "node-bdd": "^2.0.4",
         "node-fetch": "^2.7.0",
