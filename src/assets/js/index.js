@@ -30,10 +30,11 @@ class Splash {
 
     async startAnimation() {
         let splashes = [
-            { "message": "On nourrit les creepers... 💥 Enfin, on essaye..", "author": "GimoveTv" },
+            { "message": "On nourrit les creepers...💥", "author": "GimoveTv" },
             { "message": "Préparation des potions..", "author": "GimoveTv" },
-            { "message": "Mise à jour des règles du Nether... Toujours pas d’eau autorisée.", "author": "GimoveTv" },
-            { "message": "Chargement... Veuillez ne pas souffler sur votre écran.", "author": "GimoveTv"}
+            { "message": "Mise à jour des règles du Nether...", "author": "GimoveTv" },
+            { "message": " Toujours pas d’eau autorisée.", "author": "GimoveTv" },
+            { "message": "Veuillez ne pas souffler sur votre écran.", "author": "GimoveTv"}
         ];
         let splash = splashes[Math.floor(Math.random() * splashes.length)];
         this.splashMessage.textContent = splash.message;
